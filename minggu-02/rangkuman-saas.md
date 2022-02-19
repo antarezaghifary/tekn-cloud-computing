@@ -1,7 +1,7 @@
 **Summary**
 --
 
-##### **1. What is the difference between IaaS, SaaS, and Paas?**
+# **1. What is the difference between IaaS, SaaS, and Paas?**
 
 ### **SaaS: Software as a Service**
 
