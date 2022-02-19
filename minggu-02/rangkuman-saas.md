@@ -1,7 +1,7 @@
 **Summary**
 --
 
-##### What is the difference between IaaS, SaaS, and Paas?
+##### **1. What is the difference between IaaS, SaaS, and Paas?**
 
 ### **SaaS: Software as a Service**
 
@@ -27,7 +27,7 @@ They don’t directly create VMs.
 ![](image/diff.png)
 
 
-### **SAAS (Software as a Service) Platform Architecture**
+##### **2. SAAS (Software as a Service) Platform Architecture**
 
 Software as a service is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. Users can access it with the help of web browsers.
 
@@ -50,7 +50,7 @@ It offers substantial opportunities for organizations of all sizes to shift the 
 Adding SaaS can cause a fundamental shift in the IT department’s role as a provider of information services. In the past, the nature of software deployment has put chief information officers in the role of gatekeepers . They could exercise a veto by declaring that they would not host it in the data center. With SaaS , control of the data center does not necessarily equal control over the entire enterprise-computing environment. This can cause the gatekeepers to fear a loss of control.
 
 
-### **Software as a Service SaaS Platform Architecture**
+##### **3. Software as a Service SaaS Platform Architecture**
 
 ## **What is a SaaS Platform?**
 
@@ -117,7 +117,7 @@ Data streaming and lookup services
 
 --
 
-##### How to build a cloud-based SaaS application
+##### **4. How to build a cloud-based SaaS application**
 
 ### **Build for the cloud**
 
