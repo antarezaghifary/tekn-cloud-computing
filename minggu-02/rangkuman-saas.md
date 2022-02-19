@@ -24,4 +24,4 @@ This is somewhat similar to IaaS but the difference is:
 Developers provide an application which the platform runs.
 They don’t directly create VMs.
 
-![](image/latihan/diff.png)
+![](image/diff.png)
